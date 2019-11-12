@@ -1,0 +1,11 @@
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\bin\Debug\netcoreapp2.1\NovemberProj.deps.json
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\bin\Debug\netcoreapp2.1\NovemberProj.runtimeconfig.json
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\bin\Debug\netcoreapp2.1\NovemberProj.runtimeconfig.dev.json
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\bin\Debug\netcoreapp2.1\NovemberProj.dll
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\bin\Debug\netcoreapp2.1\NovemberProj.pdb
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.csprojAssemblyReference.cache
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.csproj.CoreCompileInputs.cache
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.AssemblyInfoInputs.cache
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.AssemblyInfo.cs
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.dll
+C:\Users\melker.linde\Documents\GitHub\NovemberProj\NovemberProj\obj\Debug\netcoreapp2.1\NovemberProj.pdb
